@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Friends</key>
+	<array>
+		<dict>
+			<key>phoneNumbers</key>
+			<array>
+				<dict>
+					<key>label</key>
+					<string>home</string>
+					<key>phoneNumber</key>
+					<string>(555) 555-5555</string>
+				</dict>
+				<dict>
+					<key>phoneNumber</key>
+					<string>(555) 555-5554</string>
+					<key>label</key>
+					<string>work</string>
+				</dict>
+				<dict>
+					<key>label</key>
+					<string>mobile</string>
+					<key>phoneNumber</key>
+					<string>(555) 555-5553</string>
+				</dict>
+			</array>
+			<key>fullName</key>
+			<string>Valdo</string>
+			<key>screenName</key>
+			<string>Valdo</string>
+			<key>favorite</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>fullName</key>
+			<string>Jane Doe</string>
+			<key>screenName</key>
+			<string>Jane Doe</string>
+		</dict>
+		<dict>
+			<key>fullName</key>
+			<string>Mason</string>
+			<key>screenName</key>
+			<string>Mason</string>
+		</dict>
+		<dict>
+			<key>fullName</key>
+			<string>John Doe</string>
+			<key>screenName</key>
+			<string>John Doe</string>
+		</dict>
+		<dict>
+			<key>fullName</key>
+			<string>Irwin</string>
+			<key>screenName</key>
+			<string>Irwin</string>
+		</dict>
+		<dict>
+			<key>fullName</key>
+			<string>Zafar</string>
+			<key>screenName</key>
+			<string>Zafar</string>
+		</dict>
+		<dict>
+			<key>fullName</key>
+			<string>Frank</string>
+			<key>screenName</key>
+			<string>Frank</string>
+			<key>favorite</key>
+			<true/>
+		</dict>
+	</array>
+</dict>
+</plist>
