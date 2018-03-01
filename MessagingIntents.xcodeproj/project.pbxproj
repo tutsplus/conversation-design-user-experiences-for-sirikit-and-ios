@@ -31,6 +31,7 @@
 		25E922D11EE25F3000C8E6A6 /* Message+DictionaryRepresentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25E922CC1EE25EF500C8E6A6 /* Message+DictionaryRepresentation.swift */; };
 		25E922D21EE25F3000C8E6A6 /* PhoneNumber+DictionaryRepresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25E922CF1EE25EF500C8E6A6 /* PhoneNumber+DictionaryRepresentable.swift */; };
 		25E922D31EE25F3000C8E6A6 /* User+DictionaryRepresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25E922CD1EE25EF500C8E6A6 /* User+DictionaryRepresentable.swift */; };
+		C408B39F20478037008F6559 /* AppIntentVocabulary.plist in Resources */ = {isa = PBXBuildFile; fileRef = C408B39E20478037008F6559 /* AppIntentVocabulary.plist */; };
 		C42D2EF92046696C00ADADA7 /* MessagingIntentsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C42D2EF82046696C00ADADA7 /* MessagingIntentsUITests.swift */; };
 		C8D4CFA21E8EADB300742C95 /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D4CFA11E8EADB300742C95 /* Message.swift */; };
 		C8D4CFA41E8F217C00742C95 /* UserDatabase.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D4CFA31E8F217C00742C95 /* UserDatabase.swift */; };
@@ -124,6 +125,7 @@
 		25E922CE1EE25EF500C8E6A6 /* DictionaryRepresentation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DictionaryRepresentation.swift; path = "MessagingIntentsFramework/Dictionary Representations/DictionaryRepresentation.swift"; sourceTree = SOURCE_ROOT; };
 		25E922CF1EE25EF500C8E6A6 /* PhoneNumber+DictionaryRepresentable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "PhoneNumber+DictionaryRepresentable.swift"; path = "MessagingIntentsFramework/Dictionary Representations/PhoneNumber+DictionaryRepresentable.swift"; sourceTree = SOURCE_ROOT; };
 		3158B297E28FFDCD53269734 /* LICENSE.txt */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		C408B39E20478037008F6559 /* AppIntentVocabulary.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = AppIntentVocabulary.plist; sourceTree = "<group>"; };
 		C42D2EF62046696C00ADADA7 /* MessagingIntentsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MessagingIntentsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C42D2EF82046696C00ADADA7 /* MessagingIntentsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessagingIntentsUITests.swift; sourceTree = "<group>"; };
 		C42D2EFA2046696C00ADADA7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -203,6 +205,7 @@
 				2580477E1E9EE199006E4D6D /* Main.storyboard */,
 				255533B41E9E95480049E8C9 /* Assets.xcassets */,
 				255533B61E9E95480049E8C9 /* Info.plist */,
+				C408B39E20478037008F6559 /* AppIntentVocabulary.plist */,
 			);
 			path = MessagingIntents;
 			sourceTree = "<group>";
@@ -434,6 +437,7 @@
 			files = (
 				255533BA1E9E95480049E8C9 /* Assets.xcassets in Resources */,
 				2580477F1E9EE199006E4D6D /* Main.storyboard in Resources */,
+				C408B39F20478037008F6559 /* AppIntentVocabulary.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
