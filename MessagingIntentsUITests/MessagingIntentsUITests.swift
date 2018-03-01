@@ -29,7 +29,7 @@ class MessagingIntentsUITests: XCTestCase {
     }
     
     func testSendMessage() {
-        XCUIDevice.shared.siriService.activate(voiceRecognitionText: "Send a message to John Doe using MessageIntents")
+        XCUIDevice.shared.siriService.activate(voiceRecognitionText: "Send the message How are you to Jane Doeusing MessagingIntents")
     }
     
 }

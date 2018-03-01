@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ParameterVocabularies</key>
+	<array>
+		<dict>
+			<key>ParameterNames</key>
+			<array>
+				<string>INResumeWorkoutIntent.workoutName</string>
+			</array>
+			<key>ParameterVocabulary</key>
+			<array>
+				<dict>
+					<key>VocabularyItemIdentifier</key>
+					<string>player</string>
+					<key>VocabularyItemSynonyms</key>
+					<array>
+						<dict>
+							<key>VocabularyItemPhrase</key>
+							<string>play</string>
+							<key>VocabularyItemPronunciation</key>
+							<string>pley</string>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>Resume play</string>
+							</array>
+						</dict>
+						<dict>
+							<key>VocabularyItemPhrase</key>
+							<string>player</string>
+							<key>VocabularyItemPronunciation</key>
+							<string>play yer</string>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>Resume player</string>
+							</array>
+						</dict>
+						<dict>
+							<key>VocabularyItemPhrase</key>
+							<string>playing</string>
+							<key>VocabularyItemPronunciation</key>
+							<string>pley ing</string>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>Resume playing</string>
+							</array>
+						</dict>
+						<dict>
+							<key>VocabularyItemPhrase</key>
+							<string>video</string>
+							<key>VocabularyItemPronunciation</key>
+							<string>vi di oh</string>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>Resume video</string>
+							</array>
+						</dict>
+						<dict>
+							<key>VocabularyItemPhrase</key>
+							<string>movie</string>
+							<key>VocabularyItemPronunciation</key>
+							<string>moo vi</string>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>Resume movie</string>
+							</array>
+						</dict>
+						<dict>
+							<key>VocabularyItemPhrase</key>
+							<string>playback</string>
+							<key>VocabularyItemPronunciation</key>
+							<string>pley bak</string>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>Resume playback</string>
+							</array>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ParameterNames</key>
+			<array>
+				<string>INPauseWorkoutIntent.workoutName</string>
+			</array>
+			<key>ParameterVocabulary</key>
+			<array>
+				<dict>
+					<key>VocabularyItemIdentifier</key>
+					<string>player</string>
+					<key>VocabularyItemSynonyms</key>
+					<array>
+						<dict>
+							<key>VocabularyItemPhrase</key>
+							<string>play</string>
+							<key>VocabularyItemPronunciation</key>
+							<string>pley</string>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>Pause play</string>
+							</array>
+						</dict>
+						<dict>
+							<key>VocabularyItemPhrase</key>
+							<string>player</string>
+							<key>VocabularyItemPronunciation</key>
+							<string>play yer</string>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>Pause player</string>
+							</array>
+						</dict>
+						<dict>
+							<key>VocabularyItemPhrase</key>
+							<string>playing</string>
+							<key>VocabularyItemPronunciation</key>
+							<string>pley ing</string>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>Pause playing</string>
+							</array>
+						</dict>
+						<dict>
+							<key>VocabularyItemPhrase</key>
+							<string>video</string>
+							<key>VocabularyItemPronunciation</key>
+							<string>vi di oh</string>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>Pause video</string>
+							</array>
+						</dict>
+						<dict>
+							<key>VocabularyItemPhrase</key>
+							<string>movie</string>
+							<key>VocabularyItemPronunciation</key>
+							<string>moo vi</string>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>Pause movie</string>
+							</array>
+						</dict>
+						<dict>
+							<key>VocabularyItemPhrase</key>
+							<string>playback</string>
+							<key>VocabularyItemPronunciation</key>
+							<string>pley bak</string>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>Pause playback</string>
+							</array>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ParameterNames</key>
+			<array>
+				<string>INStartWorkoutIntent.workoutName</string>
+			</array>
+			<key>ParameterVocabulary</key>
+			<array>
+				<dict>
+					<key>VocabularyItemIdentifier</key>
+					<string>seeking</string>
+					<key>VocabularyItemSynonyms</key>
+					<array>
+						<dict>
+							<key>VocabularyItemPronunciation</key>
+							<string>sea king</string>
+							<key>VocabularyItemPhrase</key>
+							<string>seeking</string>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>Siri start seeking to 15 seconds</string>
+							</array>
+						</dict>
+						<dict>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>Siri start seek to 15 seconds</string>
+							</array>
+							<key>VocabularyItemPronunciation</key>
+							<string>seek</string>
+							<key>VocabularyItemPhrase</key>
+							<string>seek</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>VocabularyItemIdentifier</key>
+					<string>player</string>
+					<key>VocabularyItemSynonyms</key>
+					<array>
+						<dict>
+							<key>VocabularyItemPhrase</key>
+							<string>play</string>
+							<key>VocabularyItemPronunciation</key>
+							<string>pley</string>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>Start play</string>
+							</array>
+						</dict>
+						<dict>
+							<key>VocabularyItemPhrase</key>
+							<string>player</string>
+							<key>VocabularyItemPronunciation</key>
+							<string>play yer</string>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>Start player</string>
+							</array>
+						</dict>
+						<dict>
+							<key>VocabularyItemPhrase</key>
+							<string>playing</string>
+							<key>VocabularyItemPronunciation</key>
+							<string>pley ing</string>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>Start playing</string>
+							</array>
+						</dict>
+						<dict>
+							<key>VocabularyItemPhrase</key>
+							<string>video</string>
+							<key>VocabularyItemPronunciation</key>
+							<string>vi di oh</string>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>Start video</string>
+							</array>
+						</dict>
+						<dict>
+							<key>VocabularyItemPhrase</key>
+							<string>movie</string>
+							<key>VocabularyItemPronunciation</key>
+							<string>moo vi</string>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>Start movie</string>
+							</array>
+						</dict>
+						<dict>
+							<key>VocabularyItemPhrase</key>
+							<string>playback</string>
+							<key>VocabularyItemPronunciation</key>
+							<string>pley bak</string>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>Start playback</string>
+							</array>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>VocabularyItemIdentifier</key>
+					<string>casting</string>
+					<key>VocabularyItemSynonyms</key>
+					<array>
+						<dict>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>start cast</string>
+							</array>
+							<key>VocabularyItemPronunciation</key>
+							<string>kast</string>
+							<key>VocabularyItemPhrase</key>
+							<string>cast</string>
+						</dict>
+						<dict>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>start casting</string>
+							</array>
+							<key>VocabularyItemPronunciation</key>
+							<string>cas ting</string>
+							<key>VocabularyItemPhrase</key>
+							<string>casting</string>
+						</dict>
+						<dict>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>start chrome cast on JW</string>
+								<string>start chrome cast</string>
+							</array>
+							<key>VocabularyItemPronunciation</key>
+							<string>cro m ca st</string>
+							<key>VocabularyItemPhrase</key>
+							<string>chrome cast</string>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ParameterNames</key>
+			<array>
+				<string>INEndWorkoutIntent.workoutName</string>
+			</array>
+			<key>ParameterVocabulary</key>
+			<array>
+				<dict>
+					<key>VocabularyItemIdentifier</key>
+					<string>casting</string>
+					<key>VocabularyItemSynonyms</key>
+					<array>
+						<dict>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>start cast</string>
+							</array>
+							<key>VocabularyItemPronunciation</key>
+							<string>kast</string>
+							<key>VocabularyItemPhrase</key>
+							<string>cast</string>
+						</dict>
+						<dict>
+							<key>VocabularyItemPhrase</key>
+							<string>chrome cast</string>
+							<key>VocabularyItemPronunciation</key>
+							<string>crome cast</string>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>Stop chrome cast</string>
+							</array>
+						</dict>
+						<dict>
+							<key>VocabularyItemPhrase</key>
+							<string>casting</string>
+							<key>VocabularyItemPronunciation</key>
+							<string>cas ting</string>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>Stop casting</string>
+							</array>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>IntentPhrases</key>
+	<array>
+		<dict>
+			<key>IntentName</key>
+			<string>INSendMessageIntent</string>
+			<key>IntentExamples</key>
+			<array>
+				<string>Send a message to Jane in MessageIntents</string>
+				<string>Send message to Jane in messageIntents</string>
+				<string>Send message hello there to Jane in MessageIntents</string>
+				<string>Send a message to Jane and Joe in MessageIntents</string>
+				<string>Start an open swim in Big Nerd Run</string>
+			</array>
+		</dict>
+		<dict>
+			<key>IntentName</key>
+			<string>INSearchForMessagesIntent</string>
+			<key>IntentExamples</key>
+			<array>
+				<string>Search for message in MessageIntents</string>
+				<string>Search for message from Jane in MessageIntents</string>
+				<string>Stop jogging</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
